@@ -1,4 +1,4 @@
-# mask-rcnn-for-multiple-objects
+# Mask-RCNN for Multiple Objects
 
 Train multiple objects with different categories on your custom dataset using Mask-RCNN and predict test dataset. 
 
